@@ -38,6 +38,7 @@ Patch5:        1860.patch
 ## realtime scheduler experimental option by default
 Patch7:        rt-default.patch
 
+Patch7:        1895.patch
 
 BuildRequires: chrpath
 BuildRequires: pango-devel
